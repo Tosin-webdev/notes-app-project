@@ -25,6 +25,10 @@
     width: 60px
 }
 
+img{
+    cursor: pointer;
+}
+
 .container button img{
     width: 25px;
     margin-right: 8px;
